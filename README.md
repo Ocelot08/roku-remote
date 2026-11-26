@@ -138,3 +138,9 @@ the TV off from bed when your phone has dropped Wi‑Fi.
   (CC BY 4.0), some recolored for a dark background.
 - All app and console logos are trademarks of their respective owners. This
   project isn't affiliated with or endorsed by Roku or any of them.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The MIT License covers
+this project's own code only, not the third-party logos and icons listed above,
+which keep their own licenses and trademarks.
